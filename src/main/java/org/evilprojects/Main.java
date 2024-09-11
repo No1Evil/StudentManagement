@@ -12,5 +12,7 @@ public class Main {
         System.out.println(user.getBirthdate());
         System.out.println(user.getGender());
         System.out.println(user.getFullBirthPlace());
+        System.out.println(user.getFirstName());
+        System.out.println(user.getLastName());
     }
 }
